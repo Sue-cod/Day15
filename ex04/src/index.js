@@ -5,12 +5,12 @@ function myArr(mili) {
 
     // Only change code below this line
     // Using mili = [4, 10, 25] would be invalid
-    let mili_ = [10, 25, 4];
-    mili = [4, 10, 25];
+
+    milili[0] = 4;
+    milili[1] = 10;
+    milili[2] = 25;
    
 
-
-console.log(mili);
     // Only change code above this line
     return mili;
 }
